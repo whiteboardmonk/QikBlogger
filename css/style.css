@@ -1,0 +1,184 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image:url(../img/body_sides_bg.gif);
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+/* background images */
+.body-bg {
+	background-image:url(../img/body_bg.gif);
+}
+.head-bg {
+	background-image:url(../img/head_bg.gif);
+}
+.head-sides-bg {
+	background-image:url(../img/head_sides_bg.gif);
+}
+.center-bg-g {
+	background-image:url(../img/center_bg_g.gif);
+}
+.center-sides-bg-g {
+background-image:url(../img/center_sides_bg_g.gif);
+}
+
+/* td pads */
+.pads-left-right {
+	padding-left:50px;
+	padding-right:50px;
+}
+.pads-top-bottom {
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.pads-bottom {
+	padding-bottom:30px;
+}
+
+.pads-left-right-menu {
+	padding-left:29px;
+	padding-right:29px;
+}
+
+.heading {
+	
+	font-size: 14px;
+	font-weight: bold;
+	line-height: 30px;
+	color: #777777;
+	text-decoration: none;
+
+}
+
+.content {
+	
+	font-size: 11px;
+	font-weight: normal;
+	line-height: 20px;
+	color: #777777;
+	text-decoration: none;
+
+}
+
+.white {
+	background-color:#FFFFFF;
+}
+
+.content-box {
+	padding:10px 10px 10px 10px;
+}
+
+/* links */
+.links {
+	
+	font-size: 11px;
+	font-weight: normal;
+	color: #3366CC;
+	line-height: 20px;
+	text-decoration: underline;
+}
+.links:hover {
+	
+	font-size: 11px;
+	font-weight: normal;
+	color: #3366CC;
+	line-height: 20px;
+	text-decoration: underline;
+
+}
+.footer-links:hover{
+	color: #008F23;
+}
+.content-links:hover{
+	color: #FF6600;
+}
+
+.txt{
+	font-size: 11px;
+	font-weight: normal;
+	color: #777777;
+	text-decoration: none;
+}
+
+.sign-out{
+	color: #4499EE;
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration: none;
+}
+.sign-out:hover{
+	color: #FF6600;
+}
+/* menus */
+.main-menu {
+	
+	font-size: 12px;
+	font-weight:normal;
+	line-height: 20px;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #666666;
+	letter-spacing: 1px;
+	text-align: left;
+	vertical-align: middle;
+	text-indent: 20pt;
+}
+
+.main-menu :hover{
+	
+	font-size: 12px;
+	font-weight:bold;
+	line-height: 20px;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #666666;
+	letter-spacing: 1px;
+	text-align: left;
+	vertical-align: middle;
+	text-indent: 20pt;
+}
+
+.sub-menu {
+	
+	font-size: 11px;
+	font-weight:normal;
+	line-height: 20px;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #999999;
+	letter-spacing: 1px;
+	text-align: left;
+	vertical-align: middle;
+	text-indent: 30pt;
+}
+
+.sub-menu:hover {
+	
+	font-size: 11px;
+	font-weight:bold;
+	line-height: 20px;
+	text-decoration: none;
+	color: #FFFFFF;
+	background-color: #999999;
+	letter-spacing: 1px;
+	text-align: left;
+	vertical-align: middle;
+	text-indent: 30pt;
+}
+
+.selected {
+	font-weight:bold;
+}
+
+/* error */
+.error-login {
+	font-size:10px;
+	color:#FF0000;
+}
+.error {
+	color:#FF0000;
+}
+
+/* stutus */
+
